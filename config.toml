@@ -192,15 +192,10 @@ canonifyurls = true
   #     url: /#search
   #     icon: search
   #     class: st-search-show-outputs
-# [params.header.rightLink]
-#    class = "open-algolia-search"
-#    icon = "search"
-#    url = "/search"
-
-# [params.algolia]
-#   indexName = "kencc"
-#   apiKey = "a5f974598d4885fe136ce47efa012cad"
-#   appID = "WKEBMEGCNM"
+  # [params.header.rightLink]
+  #    class = "open-algolia-search"
+  #    icon = "search"
+  #    url = "/search"
 
   # Display `Next` on left side of the pagination, and `Prev` on right side one.
   # If you set this value to `true`, these positions swap.
