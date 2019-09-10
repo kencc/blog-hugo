@@ -10,6 +10,8 @@ tags:
 keywords:
 - tech
 #thumbnailImage: //example.com/image.jpg
+thumbnailImage: /images/homebrew-logo.png
+thumbnailImagePosition: left
 ---
 
 <!--more-->
