@@ -20,9 +20,9 @@ thumbnailImage: /images/Homebrew-thumbnail-3.jpg
 # coverMeta: out
 ---
 
-# Homebrew - Mac 套件管理工具
-
 ![Homebrew logo](https://i.imgur.com/SdgYdVw.png)
+
+## Homebrew
 
 Homebrew 是一個專為 macOS 開發的套件管理工具，它就像是一個軟體管理中心，使用命令列介面(Command-Line Interface)操作，輸入指令就可以搜尋、下載、安裝你需要的軟體。
 
@@ -32,7 +32,7 @@ Homebrew 是一個專為 macOS 開發的套件管理工具，它就像是一個�
 
 brew 是釀造、釀酒的意思，而 Homebrew 代表的就是自家釀酒。
 
-Homebrew 的名子很特別，起源來自本身的運作方式。當 Homebrew 要安裝套件時，會先從套件的官網下載原始碼，然後進行編譯，最後再安裝到電腦上。由於套件是在自己的電腦上編譯的，過程就像是自己在家裡釀酒ㄧ樣，名稱由此而來。
+Homebrew 的名子很特別，起源來自本身的運作方式。當 Homebrew 要安裝套件時，會先從套件的官網下載原始碼，然後進行編譯，最後再安裝到電腦上。由於套件是在自己的電腦上編譯的，過程就像是自己在家裡釀酒ㄧ樣，他的名稱因此而來。
 
 ## 釀酒的世界
 
@@ -299,5 +299,3 @@ Homebrew 是免費的開源軟體，可以透過以下連結關注他們，近�
 * [有趣的 Homebrew 命名邏輯](https://wildjcrt.pixnet.net/blog/post/29182044-the-naming-logic-from-homebrew)
 * [macOS 包管理工具 Homebrew 不完全指南
 ](https://swiftcafe.io/post/home-brew)
-
-## 延伸閱讀

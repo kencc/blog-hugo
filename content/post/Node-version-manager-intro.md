@@ -1,5 +1,5 @@
 ---
-title: "NVM Intro"
+title: "使用 NVM 管理 Node.js 版本"
 date: 2019-09-16T15:01:02+08:00
 # 分類
 categories:
@@ -12,8 +12,8 @@ keywords:
 
 summary: NVM 是一套知名的版本控制套件，可以很容易的在一台電腦上建置多個不同版本的 Node.js 環境，可說是所有前端開發人員都需要的套件工具。
 
-# thumbnailImagePosition: left
-# thumbnailImage: /images/Homebrew-thumbnail-3.jpg
+thumbnailImagePosition: top
+thumbnailImage: https://i.imgur.com/vQgEPya.png
 # coverImage: /images/Homebrew-Cover-wide.png
 # coverImage: https://i.imgur.com/SdgYdVw.png
 # coverSize: full
@@ -101,13 +101,13 @@ NVM 無法使用 `which nvm` 檢查，原因是 NVM 是使用 bash script 寫成
 
 ## 不建議使用 Homebrew 安裝
 
-NVM 官網有明確指出，不支援使用 Homebrew 安裝。
+* NVM 的官網有明確指出，目前不支援 Homebrew 的安裝方式。
 
-Homebrew 安裝 NVM 後，還是需要自行手動建立 `~/.nvm` 目錄與設定環境變數，才能順利使用。
+* 使用 Homebrew 安裝 NVM 後，需要自行手動建立 `~/.nvm` 目錄與設定環境變數，才能順利使用。
 
-Homebrew 移除 NVM 後，實際上 NVM 的資料夾與環境變數，還是會存在，需要手動移除。
+* 使用 Homebrew 移除 NVM 後，實際上 NVM 的資料夾與環境變數，依然存在電腦裡面，需要手動移除。
 
-根據以上幾點，使用官網的安裝方式還比較單純，只需要管理 `~/.nvm` 目錄。
+根據以上幾點，個人認為使用 NVM 官方提供的安裝方式比較單純，因為只需要管理 `~/.nvm` 的目錄就好。
 
 ## 使用方式
 
