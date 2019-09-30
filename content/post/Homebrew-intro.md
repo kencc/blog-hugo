@@ -3,7 +3,7 @@ title: "Homebrew - Mac 套件管理工具"
 date: 2019-09-10T23:38:03+08:00
 # 類別
 categories:
-- 開發工具
+- 網頁開發
 # 
 tags:
 - Homebrew

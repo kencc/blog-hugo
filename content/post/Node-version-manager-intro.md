@@ -3,7 +3,7 @@ title: "使用 NVM 管理 Node.js 版本"
 date: 2019-09-16T15:01:02+08:00
 # 分類
 categories:
-- 開發工具
+- 網頁開發
 # 
 tags:
 - Node.js
